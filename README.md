@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Jesus Anthony Flores Condori
 
-## 🚀 Desarrollador Full Stack | Especialista en APIs REST y Aplicaciones Escalables
+## 🚀 Desarrollador Junior Full Stack | Aplicaciones Escalables
 
 Desarrollador Full Stack Junior apasionado por crear soluciones tecnológicas innovadoras y escalables. Con experiencia en desarrollo web, APIs RESTful y aplicaciones móviles, busco colaborar en proyectos desafiantes donde pueda aplicar mis conocimientos y seguir creciendo profesionalmente.
 
@@ -44,69 +44,6 @@ Desarrollador Full Stack Junior apasionado por crear soluciones tecnológicas in
 
 ---
 
-## 💼 Experiencia Profesional
-
-### 🏢 Desarrollador Backend | CONDORLAND S.A.C
-**Agosto 2024 - Diciembre 2024**
-- 🔧 Diseño y desarrollo de APIs REST completas con Node.js y Express
-- 🗄️ Implementación de arquitectura de base de datos MySQL optimizada
-- 📚 Creación de documentación técnica completa con herramientas de testing
-- 🔗 Integración de servicios backend con interfaces de usuario
-
-### 🎓 Desarrollador Web | Universidad Nacional de Ingeniería
-**Agosto 2022 - Marzo 2023**
-- 🏗️ Construcción de sistema completo de gestión de proyectos
-- 🎨 Desarrollo de interfaces dinámicas y responsivas
-- 💾 Integración con PostgreSQL y Supabase
-- ⚛️ Diseño de componentes reutilizables con Shadcn y React
-
----
-
-## 🚀 Proyectos Destacados
-
-### 🛒 Sistema Backend para Comercio Electrónico
-**APIs REST robustas y escalables**
-- 🔐 Sistema de autenticación JWT con autorización por roles
-- 🔍 Funcionalidades avanzadas de búsqueda y filtrado
-- 📖 Documentación interactiva con Swagger
-- 🏗️ Arquitectura RESTful siguiendo mejores prácticas
-
-**Tech Stack:** Node.js, Express, MongoDB, Mongoose, Swagger
-
-### 📊 Dashboard Empresarial
-**Panel de administración web moderno**
-- 🎛️ Interfaz intuitiva con componentes Shadcn/UI
-- ⚡ Paneles de control en tiempo real
-- 📈 Sistema de reportes y analytics integrado
-- 📱 Diseño responsive para todos los dispositivos
-
-**Tech Stack:** React, Shadcn/UI, Axios, Tailwind CSS
-
-### 📱 App Móvil Empresarial
-**Aplicación para gestión de pedidos comerciales**
-- 🔔 Sistema de notificaciones push en tiempo real
-- 📦 Seguimiento de pedidos con actualizaciones automáticas
-- 🔄 Funcionalidades offline para continuidad del negocio
-- 🔗 Integración completa con sistema backend
-
-**Tech Stack:** React Native, Expo, Axios, NativeWind
-
----
-
-## 🎓 Educación
-
-**Técnico en Desarrollo de Software | SENATI**  
-*2022 - 2024 (Graduado)*
-
-**Competencias desarrolladas:**
-- Desarrollo de aplicaciones web con tecnologías modernas
-- Diseño e implementación de bases de datos relacionales y no relacionales
-- Metodologías de desarrollo ágil y gestión de proyectos
-- Arquitecturas de software escalables y patrones de diseño
-- Testing, debugging y optimización de aplicaciones
-
----
-
 ## 🌟 Soft Skills
 
 - 🚀 **Proactividad** - Iniciativa para identificar y resolver problemas
@@ -121,7 +58,7 @@ Desarrollador Full Stack Junior apasionado por crear soluciones tecnológicas in
 ## 🌐 Idiomas
 
 - **Español:** Nativo
-- **Inglés:** Avanzado
+- **Inglés:** Intermedio
 
 ---
 
