@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Jesus Anthony Flores Condori
+# ¡Hola! 👋 Soy Jesus
 
 ## 🚀 Desarrollador Junior Full Stack | Aplicaciones Escalables
 
