@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Jesus
 
-## 🚀 Desarrollador Junior Full Stack | Aplicaciones Escalables
+## 🚀 Desarrollador Full Stack | Aplicaciones Escalables
 
 Desarrollador Full Stack Junior apasionado por crear soluciones tecnológicas innovadoras y escalables. Con experiencia en desarrollo web, APIs RESTful y aplicaciones móviles, busco colaborar en proyectos desafiantes donde pueda aplicar mis conocimientos y seguir creciendo profesionalmente.
 
