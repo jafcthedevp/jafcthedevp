@@ -1,84 +1,110 @@
-# ¡Hola! 👋 Soy Jesus
+<div align="center">
 
-## 🚀 Desarrollador Full Stack | Aplicaciones Escalables
+# ¡Hola, soy Jesús 👋
 
-Desarrollador Full Stack Junior apasionado por crear soluciones tecnológicas innovadoras y escalables. Con experiencia en desarrollo web, APIs RESTful y aplicaciones móviles, busco colaborar en proyectos desafiantes donde pueda aplicar mis conocimientos y seguir creciendo profesionalmente.
+### Desarrollador Backend/Cloud — Node.js · AWS Serverless · Java · Spring Boot
 
----
+Construyo APIs y sistemas backend en producción, desde validación de pagos con OCR hasta integraciones en tiempo real.
 
-## 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jafcthedevp&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jafcthedevp&layout=compact&theme=dark&hide_border=true)
+</div>
 
 ---
 
-## 🛠️ Stack Tecnológico
+### 🧭 Sobre mí
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### Herramientas & Metodologías
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+- 🔭 Actualmente trabajando en **Overshark S.A.C. / Zazuexpress**, construyendo un sistema serverless de validación de pagos (Yape/Plin) con OCR y AWS.
+- 💻 Stack principal: **Node.js/TypeScript**, **AWS** (Lambda, DynamoDB, S3, API Gateway, Textract), **Next.js/React**, **Supabase**.
+- ☕ También trabajo con **Java (17/21)** y **Spring Boot** (Spring Web, Spring Data JPA, Spring Security, JWT) en proyectos personales.
+- 🌎 Basado en Lima, Perú.
+- 🐳 Docker en casi todo lo que despliego.
 
 ---
 
-## 🌟 Soft Skills
+### 🛠️ Stack Tecnológico
 
-- 🚀 **Proactividad** - Iniciativa para identificar y resolver problemas
-- 🧠 **Aprendizaje Continuo** - Adaptación rápida a nuevas tecnologías
-- 🔧 **Resolución de Problemas** - Enfoque analítico y creativo
-- 🤝 **Trabajo en Equipo** - Colaboración efectiva en proyectos
-- 💬 **Comunicación Efectiva** - Claridad en la transmisión de ideas
-- 🔄 **Adaptabilidad** - Flexibilidad ante cambios y nuevos desafíos
+**Lenguajes**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
----
+**Backend & Frameworks**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-## 🌐 Idiomas
+**Cloud & Infraestructura**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-- **Español:** Nativo
-- **Inglés:** Intermedio
+**Bases de datos**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
-
-## 📫 Conecta conmigo
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-jesus.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flores.anthony.489@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jafcthedevp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-
----
-
-## 📈 Actividad Reciente
-
-<!--START_SECTION:activity-->
-<!-- GitHub activity will be displayed here -->
-<!--END_SECTION:activity-->
+**Herramientas**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 ---
 
-⭐ **¿Te gusta mi trabajo?** ¡Dale una estrella a mis repositorios y conectemos para colaborar!
+### 🚀 Proyectos destacados
 
-💡 **Siempre abierto a nuevas oportunidades y desafíos tecnológicos**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**💳 Sistema de validación de pagos (Overshark)**
+Sistema serverless en AWS que procesa vouchers de Yape/Plin vía OCR (Textract) y WhatsApp Business API. 14+ funciones Lambda, DynamoDB, S3, soportando decenas de agentes y volumen diario significativo de transacciones.
+`AWS Lambda` `Textract` `DynamoDB` `S3`
+
+</td>
+<td width="50%" valign="top">
+
+**🍽️ D'Ilish — Sistema de gestión de restaurante**
+Sistema multiplataforma para pedidos: app de mesero (React Native + Expo), pantalla de cocina y panel admin en Next.js, con datos en tiempo real vía Supabase.
+`React Native` `Next.js` `Supabase` `Realtime`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📇 CRM Livex**
+CRM construido con Next.js y shadcn/ui sobre AWS Amplify, con paginación por cursor sobre DynamoDB.
+`Next.js` `DynamoDB` `AWS Amplify`
+
+</td>
+<td width="50%" valign="top">
+
+**🏗️ AWS Architecture Advisor**
+SaaS personal que genera diagramas de arquitectura e Infraestructura como Código (IaC) usando la API de Claude con streaming, sobre Next.js y Supabase.
+`Next.js` `Supabase` `Claude API`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&hide_border=true)
+![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&hide_border=true)
+
+</div>
+
+---
+
+### 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
+
+</div>
