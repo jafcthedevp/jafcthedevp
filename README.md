@@ -90,17 +90,6 @@ SaaS personal que genera diagramas de arquitectura e Infraestructura como Códig
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&hide_border=true)
-![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&hide_border=true)
-
-</div>
-
----
-
 ### 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
