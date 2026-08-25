@@ -12,8 +12,7 @@ Construyo APIs y sistemas backend en producción, desde validación de pagos con
 
 ### 🧭 Sobre mí
 
-- 🔭 Actualmente trabajando en **Overshark S.A.C. / Zazuexpress**, construyendo un sistema serverless de validación de pagos (Yape/Plin) con OCR y AWS.
-- 💻 Stack principal: **Node.js/TypeScript**, **AWS** (Lambda, DynamoDB, S3, API Gateway, Textract), **Next.js/React**, **Supabase**.
+- 💻 Stack principal con el que he trabajado: **Node.js/TypeScript**, **AWS** (Lambda, DynamoDB, S3, API Gateway, Textract), **Next.js/React**, **Supabase**.
 - ☕ También trabajo con **Java (17/21)** y **Spring Boot** (Spring Web, Spring Data JPA, Spring Security, JWT) en proyectos personales.
 - 🌎 Basado en Lima, Perú.
 - 🐳 Docker en casi todo lo que despliego.
