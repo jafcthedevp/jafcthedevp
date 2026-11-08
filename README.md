@@ -1,98 +1,120 @@
 <div align="center">
 
-# ¡Hola, soy Jesús 👋
+# ¡Hola, soy Jesús Flores!
 
-### Desarrollador Backend/Cloud — Node.js · AWS Serverless · Java · Spring Boot
+### Desarrollador Backend & Cloud · TypeScript · Node.js · AWS
 
-Construyo APIs y sistemas backend en producción, desde validación de pagos con OCR hasta integraciones en tiempo real.
+Transformo necesidades de negocio en soluciones de software, desde el análisis inicial hasta su puesta en producción.
 
+LinkedIn (https://www.linkedin.com/in/jesus-flores-condori-2a72b0224/) · Correo (mailto:flores.anthony.489@gmail.com) · CV (https://github.com/jafcthedevp/Portfolio-jesus/blob/main/public/CVJesusFlores.pdf)
 </div>
 
----
+———
 
-### 🧭 Sobre mí
+### Sobre mí
 
-- 💻 Stack principal con el que he trabajado: **Node.js/TypeScript**, **AWS** (Lambda, DynamoDB, S3, API Gateway, Textract), **Next.js/React**, **Supabase**.
-- ☕ También trabajo con **Java (17/21)** y **Spring Boot** (Spring Web, Spring Data JPA, Spring Security, JWT) en proyectos personales.
-- 🌎 Basado en Lima, Perú.
-- 🐳 Docker en casi todo lo que despliego.
+Soy desarrollador de software con enfoque en backend y cloud, basado en Lima, Perú. Me interesa entender cómo funciona un negocio y construir soluciones que simplifiquen el trabajo de las personas.
 
----
+Mi experiencia incluye automatización de pagos con OCR, gestión de pedidos e integraciones entre plataformas. He trabajado desde el análisis de necesidades hasta la puesta en producción, principalmente con TypeScript, Node.js y AWS, utilizando servicios como Lambda, DynamoDB, S3, API Gateway y Textract.
 
-### 🛠️ Stack Tecnológico
+También desarrollo interfaces web y aplicaciones móviles con React, Next.js y React Native. Esto me permite abordar los proyectos de forma integral y conectar la experiencia del usuario con los sistemas que la sostienen.
 
-**Lenguajes**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+En proyectos personales amplío mis conocimientos de Java y Spring Boot. Busco construir software mantenible y tomar decisiones técnicas que respondan a problemas reales.
 
-**Backend & Frameworks**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+———
 
-**Cloud & Infraestructura**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+### Tecnologías
 
-**Bases de datos**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+| Área | Tecnologías |
+|---|---|
+| Backend | Node.js, TypeScript, JavaScript, APIs REST |
+| Cloud | AWS Lambda, API Gateway, S3, DynamoDB, Textract, IAM, Secrets Manager |
+| Web y móvil | React, Next.js, React Native, Expo |
+| Datos | PostgreSQL, MySQL, DynamoDB, Supabase |
+| Infraestructura | Docker, Serverless Framework, GitHub Actions |
+| Integraciones | WhatsApp Business API, Odoo, Claude API |
+| Calidad y documentación | Vitest, Playwright, Swagger, Git |
 
-**Herramientas**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+También trabajo en proyectos personales con: Java 17/21, Spring Boot, Spring Web, Spring Data JPA y Spring Security con JWT.
 
----
+———
 
-### 🚀 Proyectos destacados
+### Experiencia y proyectos destacados
 
-<table>
-<tr>
-<td width="50%" valign="top">
+#### Overshark · Automatización de validación de pagos
 
-**💳 Sistema de validación de pagos (Overshark)**
-Sistema serverless en AWS que procesa vouchers de Yape/Plin vía OCR (Textract) y WhatsApp Business API. 14+ funciones Lambda, DynamoDB, S3, soportando decenas de agentes y volumen diario significativo de transacciones.
-`AWS Lambda` `Textract` `DynamoDB` `S3`
+Solución serverless para procesar comprobantes de Yape y Plin mediante OCR con Amazon Textract e integración con WhatsApp Business API.
 
-</td>
-<td width="50%" valign="top">
+- Procesamiento de aproximadamente 2.500 comprobantes mensuales.
+- Reducción del 93 % del tiempo operativo.
+- Infraestructura con más de 14 funciones Lambda, DynamoDB, S3 y API Gateway.
+- Dashboard de pagos en tiempo real con paginación por cursores.
+- Aplicación con React Native para capturar notificaciones y procesar su información.
 
-**🍽️ D'Ilish — Sistema de gestión de restaurante**
-Sistema multiplataforma para pedidos: app de mesero (React Native + Expo), pantalla de cocina y panel admin en Next.js, con datos en tiempo real vía Supabase.
-`React Native` `Next.js` `Supabase` `Realtime`
+AWS Lambda API Gateway Textract DynamoDB S3 Serverless Framework WhatsApp API React Native
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+#### D'Ilish · Gestión de restaurante
 
-**📇 CRM Livex**
-CRM construido con Next.js y shadcn/ui sobre AWS Amplify, con paginación por cursor sobre DynamoDB.
-`Next.js` `DynamoDB` `AWS Amplify`
+Sistema multiplataforma para centralizar productos, pedidos y administración, con herramientas para coordinar la atención del restaurante.
 
-</td>
-<td width="50%" valign="top">
+- Aplicación de mesero con React Native y Expo.
+- Pantalla de cocina y panel administrativo con Next.js.
+- Actualización de pedidos en tiempo real mediante Supabase.
+- Permisos por rol, seguimiento operativo y exportación de reportes.
 
-**🏗️ AWS Architecture Advisor**
-SaaS personal que genera diagramas de arquitectura e Infraestructura como Código (IaC) usando la API de Claude con streaming, sobre Next.js y Supabase.
-`Next.js` `Supabase` `Claude API`
+Next.js React Native Expo Supabase Realtime
 
-</td>
-</tr>
-</table>
+#### Zazu Express · Integración de postventa
 
----
+Desarrollo de un módulo de Odoo integrado con WhatsApp Business Platform para facilitar la comunicación y el seguimiento de pedidos.
 
-### 📫 Contacto
+- Notificaciones de postventa.
+- Consulta del estado de los pedidos.
+- Automatización de consultas recurrentes mediante flujos conversacionales.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
+Odoo WhatsApp Business Platform Integraciones
 
-</div>
+#### Condorland · Monitoreo de flota
+
+Desarrollo de una API REST y una base de datos para un sistema de monitoreo de flota en tiempo real.
+
+- Reducción del 50 % de la carga operativa de monitoreo.
+- Aplicación contenerizada con Docker.
+- Flujo de integración y despliegue continuo.
+- Control de versiones y trazabilidad de cambios con Git.
+
+Node.js Express.js JavaScript MySQL Docker Git CI/CD
+
+———
+
+### Otros proyectos
+
+#### CRM Livex
+
+CRM desarrollado con Next.js y shadcn/ui sobre AWS Amplify, con paginación por cursores sobre DynamoDB para consultar y navegar los registros.
+
+Next.js shadcn/ui AWS Amplify DynamoDB
+
+#### AWS Architecture Advisor · Proyecto personal
+
+SaaS que genera diagramas de arquitectura e infraestructura como código a partir de la API de Claude, con respuestas en streaming.
+
+Next.js Supabase Claude API Streaming IaC
+
+———
+
+### Formación y aprendizaje
+
+- Desarrollo de Software — SENATI, 2021–2024.
+- Preparación para el examen AWS Certified Solutions Architect – Associate.
+- Profundización en Java y Spring Boot mediante proyectos personales.
+- Idiomas: español nativo e inglés intermedio, B1.
+
+———
+
+### Contacto
+
+- Correo: flores.anthony.489@gmail.com (mailto:flores.anthony.489@gmail.com)
+- LinkedIn: Jesús Flores Condori (https://www.linkedin.com/in/jesus-flores-condori-2a72b0224/)
+- GitHub: jafcthedevp (https://github.com/jafcthedevp)
+- Ubicación: Lima, Perú.
