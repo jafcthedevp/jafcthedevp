@@ -1,120 +1,79 @@
 <div align="center">
 
-# ¡Hola, soy Jesús Flores!
+<sub>JESÚS FLORES · 📍 LIMA, PERÚ</sub>
 
-### Desarrollador Backend & Cloud · TypeScript · Node.js · AWS
+# De un proceso manual a una solución que funciona. 🚀
 
-Transformo necesidades de negocio en soluciones de software, desde el análisis inicial hasta su puesta en producción.
+**👨‍💻 Software Developer · TypeScript · Node.js · AWS**
 
-LinkedIn (https://www.linkedin.com/in/jesus-flores-condori-2a72b0224/) · Correo (mailto:flores.anthony.489@gmail.com) · CV (https://github.com/jafcthedevp/Portfolio-jesus/blob/main/public/CVJesusFlores.pdf)
+Construyo aplicaciones e integraciones que conectan personas, datos y operaciones.
+
+[🐙 GitHub](https://github.com/jafcthedevp) · [💼 LinkedIn](https://www.linkedin.com/in/jesus-flores-condori-2a72b0224/) · [💬 Conversemos](mailto:flores.anthony.489@gmail.com)
+
+---
+
+[Sobre mí](#hola-soy-jesús) · [Lo que construyo](#del-problema-al-producto) · [Herramientas](#mi-caja-de-herramientas) · [Explorar](#este-es-mi-espacio)
+
 </div>
 
-———
+<a id="hola-soy-jesús"></a>
 
-### Sobre mí
+## 👋 Hola, soy Jesús
 
-Soy desarrollador de software con enfoque en backend y cloud, basado en Lima, Perú. Me interesa entender cómo funciona un negocio y construir soluciones que simplifiquen el trabajo de las personas.
+Soy desarrollador de software en Lima. Trabajo entre el backend, las interfaces y la nube, acompañando proyectos desde entender la necesidad hasta poner la solución en producción.
 
-Mi experiencia incluye automatización de pagos con OCR, gestión de pedidos e integraciones entre plataformas. He trabajado desde el análisis de necesidades hasta la puesta en producción, principalmente con TypeScript, Node.js y AWS, utilizando servicios como Lambda, DynamoDB, S3, API Gateway y Textract.
+Me interesa ese punto donde el código se convierte en algo útil: un pedido que llega a cocina, un comprobante que se procesa automáticamente o una consulta que se resuelve sin hacer esperar a alguien.
 
-También desarrollo interfaces web y aplicaciones móviles con React, Next.js y React Native. Esto me permite abordar los proyectos de forma integral y conectar la experiencia del usuario con los sistemas que la sostienen.
+Aquí comparto mi trabajo y mi recorrido construyendo software.
 
-En proyectos personales amplío mis conocimientos de Java y Spring Boot. Busco construir software mantenible y tomar decisiones técnicas que respondan a problemas reales.
+<a id="del-problema-al-producto"></a>
 
-———
+## 🚀 Del problema al producto
 
-### Tecnologías
+Mi experiencia gira alrededor de tres tipos de retos:
 
-| Área | Tecnologías |
-|---|---|
-| Backend | Node.js, TypeScript, JavaScript, APIs REST |
-| Cloud | AWS Lambda, API Gateway, S3, DynamoDB, Textract, IAM, Secrets Manager |
-| Web y móvil | React, Next.js, React Native, Expo |
-| Datos | PostgreSQL, MySQL, DynamoDB, Supabase |
-| Infraestructura | Docker, Serverless Framework, GitHub Actions |
-| Integraciones | WhatsApp Business API, Odoo, Claude API |
-| Calidad y documentación | Vitest, Playwright, Swagger, Git |
+| 🔗 Conectar | ⚡ Automatizar | 📊 Dar visibilidad |
+| :--- | :--- | :--- |
+| Integrar aplicaciones, APIs y servicios para que la información circule. | Convertir tareas repetitivas en flujos que ahorren trabajo operativo. | Crear paneles e interfaces para entender qué está pasando y actuar. |
 
-También trabajo en proyectos personales con: Java 17/21, Spring Boot, Spring Web, Spring Data JPA y Spring Security con JWT.
+Algunas formas en las que lo he llevado a la práctica:
 
-———
+- 🍽️ **Del pedido a la cocina.** Aplicaciones web y móviles para gestionar pedidos, coordinar la atención en tiempo real y organizar el trabajo por roles.
+- 🧾 **Del comprobante al dato.** Procesamiento de pagos con OCR y servicios serverless en AWS, conectado con WhatsApp.
+- 💬 **De la consulta al seguimiento.** Integraciones entre Odoo y WhatsApp Business para automatizar consultas de postventa.
+- 📍 **De la ubicación a la operación.** APIs y paneles para monitorear flotas en tiempo real, con despliegues en contenedores.
 
-### Experiencia y proyectos destacados
+<a id="mi-caja-de-herramientas"></a>
 
-#### Overshark · Automatización de validación de pagos
+## 🛠️ Mi caja de herramientas
 
-Solución serverless para procesar comprobantes de Yape y Plin mediante OCR con Amazon Textract e integración con WhatsApp Business API.
+Mi base es **TypeScript + Node.js**. A partir de ahí, trabajo con las herramientas que necesita cada parte del producto.
 
-- Procesamiento de aproximadamente 2.500 comprobantes mensuales.
-- Reducción del 93 % del tiempo operativo.
-- Infraestructura con más de 14 funciones Lambda, DynamoDB, S3 y API Gateway.
-- Dashboard de pagos en tiempo real con paginación por cursores.
-- Aplicación con React Native para capturar notificaciones y procesar su información.
+| Área | Herramientas |
+| :--- | :--- |
+| 🎨 Interfaces | React · Next.js · React Native |
+| ⚙️ Backend | Node.js · NestJS · Python |
+| 🗄️ Datos | PostgreSQL · DynamoDB · Supabase |
+| ☁️ Infraestructura | AWS · Serverless Framework · Docker |
+| 🧪 Calidad | Vitest · Playwright · Swagger · Git |
 
-AWS Lambda API Gateway Textract DynamoDB S3 Serverless Framework WhatsApp API React Native
+<details>
+<summary><strong>☁️ Más sobre cloud e integraciones</strong></summary>
 
-#### D'Ilish · Gestión de restaurante
+En AWS he trabajado con Lambda, API Gateway, S3, DynamoDB y Textract para construir flujos de procesamiento y extracción de datos; también con IAM y Secrets Manager para gestionar accesos y secretos.
 
-Sistema multiplataforma para centralizar productos, pedidos y administración, con herramientas para coordinar la atención del restaurante.
+Mis integraciones incluyen WhatsApp Business Platform, Odoo y la API de Claude.
 
-- Aplicación de mesero con React Native y Expo.
-- Pantalla de cocina y panel administrativo con Next.js.
-- Actualización de pedidos en tiempo real mediante Supabase.
-- Permisos por rol, seguimiento operativo y exportación de reportes.
+</details>
 
-Next.js React Native Expo Supabase Realtime
+<a id="este-es-mi-espacio"></a>
 
-#### Zazu Express · Integración de postventa
+## 🌱 Este es mi espacio
 
-Desarrollo de un módulo de Odoo integrado con WhatsApp Business Platform para facilitar la comunicación y el seguimiento de pedidos.
+Este perfil reúne las distintas partes de mi trabajo: aplicaciones, integraciones y automatizaciones. Para conocer cómo las implemento, puedes explorar mis repositorios.
 
-- Notificaciones de postventa.
-- Consulta del estado de los pedidos.
-- Automatización de consultas recurrentes mediante flujos conversacionales.
+**[🧭 Explorar mis repositorios →](https://github.com/jafcthedevp?tab=repositories)**
 
-Odoo WhatsApp Business Platform Integraciones
+Si estás construyendo un producto o tienes un proceso que podría funcionar mejor con software, podemos conversar.
 
-#### Condorland · Monitoreo de flota
-
-Desarrollo de una API REST y una base de datos para un sistema de monitoreo de flota en tiempo real.
-
-- Reducción del 50 % de la carga operativa de monitoreo.
-- Aplicación contenerizada con Docker.
-- Flujo de integración y despliegue continuo.
-- Control de versiones y trazabilidad de cambios con Git.
-
-Node.js Express.js JavaScript MySQL Docker Git CI/CD
-
-———
-
-### Otros proyectos
-
-#### CRM Livex
-
-CRM desarrollado con Next.js y shadcn/ui sobre AWS Amplify, con paginación por cursores sobre DynamoDB para consultar y navegar los registros.
-
-Next.js shadcn/ui AWS Amplify DynamoDB
-
-#### AWS Architecture Advisor · Proyecto personal
-
-SaaS que genera diagramas de arquitectura e infraestructura como código a partir de la API de Claude, con respuestas en streaming.
-
-Next.js Supabase Claude API Streaming IaC
-
-———
-
-### Formación y aprendizaje
-
-- Desarrollo de Software — SENATI, 2021–2024.
-- Preparación para el examen AWS Certified Solutions Architect – Associate.
-- Profundización en Java y Spring Boot mediante proyectos personales.
-- Idiomas: español nativo e inglés intermedio, B1.
-
-———
-
-### Contacto
-
-- Correo: flores.anthony.489@gmail.com (mailto:flores.anthony.489@gmail.com)
-- LinkedIn: Jesús Flores Condori (https://www.linkedin.com/in/jesus-flores-condori-2a72b0224/)
-- GitHub: jafcthedevp (https://github.com/jafcthedevp)
-- Ubicación: Lima, Perú.
+**[📬 Escríbeme](mailto:flores.anthony.489@gmail.com)** · **[🤝 Conectemos en LinkedIn](https://www.linkedin.com/in/jesus-flores-condori-2a72b0224/)**
