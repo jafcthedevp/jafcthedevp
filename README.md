@@ -2,8 +2,6 @@
 
 <sub>JESÚS FLORES · 📍 LIMA, PERÚ</sub>
 
-# De un proceso manual a una solución que funciona. 🚀
-
 **👨‍💻 Software Developer · TypeScript · Node.js · AWS**
 
 Construyo aplicaciones e integraciones que conectan personas, datos y operaciones.
